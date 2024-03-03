@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\bin\Debug\net6.0\Service Management.exe
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\bin\Debug\net6.0\Service Management.deps.json
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\bin\Debug\net6.0\Service Management.runtimeconfig.json
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\bin\Debug\net6.0\Service Management.dll
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\bin\Debug\net6.0\Service Management.pdb
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\obj\Debug\net6.0\Service Management.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\obj\Debug\net6.0\Service Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\obj\Debug\net6.0\Service Management.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\obj\Debug\net6.0\Service Management.AssemblyInfo.cs
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\obj\Debug\net6.0\Service Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\obj\Debug\net6.0\Service Management.dll
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\obj\Debug\net6.0\refint\Service Management.dll
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\obj\Debug\net6.0\Service Management.pdb
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\obj\Debug\net6.0\Service Management.genruntimeconfig.cache
+C:\Users\User\Desktop\OOP2\OOP2 final project\Service Management System and Freelancer Provider\Service Management\Service Management\obj\Debug\net6.0\ref\Service Management.dll
